@@ -39,6 +39,7 @@ pt-BR:
         create_rule: Criar nova regra
         role_info: Informações do perfil 
         role_rules: Regras do perfil
+        role_export: "Exportar perfil"
       sidebar:
         roles_list: Lista de perfis 
         role_nav: Menu 
@@ -47,4 +48,4 @@ pt-BR:
 
         roles_export: "Exportar perfis"
         roles_import: "Importar perfis"
-        roles_import_confirm: 'Isto pode alterar a política de regras do seu sistema. Tem certeza?
+        roles_import_confirm: 'Isto pode alterar a política de regras do seu sistema. Tem certeza?'
